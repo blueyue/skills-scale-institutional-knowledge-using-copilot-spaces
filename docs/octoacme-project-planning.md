@@ -16,6 +16,20 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+## Role Assignments During Planning
+
+| Activity | Responsible Personas |
+|---|---|
+| Kickoff meeting facilitation | Project Manager |
+| Business goals and success metrics | Product Manager, Business Analyst |
+| Requirements gathering and documentation | Business Analyst, Product Manager |
+| UX/design scope and wireframes | UX/UI Designer |
+| Technical architecture and feasibility | Solutions Architect |
+| Backlog creation and prioritization | Product Manager, Business Analyst, Project Manager |
+| Estimation | Developers, Solutions Architect |
+| Release and support planning | Project Manager, Support Lead |
+| Risk identification | Project Manager, Solutions Architect, Business Analyst |
+
 ## Backlog Item Template
 - Title:
 - Description:
